@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudRest.Data", "CRUDRest.Data\CrudRest.Data.csproj", "{67283AD2-E43D-45C3-B65D-970389B26A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudRest.Entity", "CrudRest.Entity\CrudRest.Entity.csproj", "{BCA121B4-055B-4C3F-A0D3-D2B6DFA95047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudRest.Web", "CrudRest.Web\CrudRest.Web.csproj", "{4E3007BC-C1FC-4972-9F7B-A897CD7CB858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67283AD2-E43D-45C3-B65D-970389B26A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67283AD2-E43D-45C3-B65D-970389B26A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67283AD2-E43D-45C3-B65D-970389B26A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67283AD2-E43D-45C3-B65D-970389B26A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA121B4-055B-4C3F-A0D3-D2B6DFA95047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA121B4-055B-4C3F-A0D3-D2B6DFA95047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA121B4-055B-4C3F-A0D3-D2B6DFA95047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA121B4-055B-4C3F-A0D3-D2B6DFA95047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3007BC-C1FC-4972-9F7B-A897CD7CB858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3007BC-C1FC-4972-9F7B-A897CD7CB858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3007BC-C1FC-4972-9F7B-A897CD7CB858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3007BC-C1FC-4972-9F7B-A897CD7CB858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
